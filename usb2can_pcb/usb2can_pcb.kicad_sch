@@ -6,8 +6,8 @@
 
   (title_block
     (title "usb2can")
-    (date "2022-11-01")
-    (rev "1.0")
+    (date "2022-11-11")
+    (rev "1.1")
     (company "myaki@GMaster")
   )
 
