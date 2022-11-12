@@ -4,7 +4,14 @@
     (thickness 1.6)
   )
 
-  (paper "A4")
+  (paper "A5")
+  (title_block
+    (title "usb2can")
+    (date "2022-11-11")
+    (rev "1.1")
+    (company "myaki@GMaster")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)
